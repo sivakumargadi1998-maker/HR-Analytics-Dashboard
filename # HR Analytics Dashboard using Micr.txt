@@ -1,0 +1,108 @@
+# HR Analytics Dashboard using Microsoft Excel
+
+## 📌 Project Overview
+
+This project focuses on analyzing employee data to understand workforce distribution, employee attrition, salary patterns, job roles, and employee demographics using Microsoft Excel.
+
+The objective is to transform raw HR data into meaningful business insights through data cleaning, Excel formulas, Pivot Tables, Pivot Charts, KPI cards, and interactive slicers.
+
+## 📊 Dataset Information
+
+- **Dataset:** IBM HR Analytics Employee Attrition Dataset
+- **Total Employees:** 1,470
+- **Total Columns:** 35
+- **Domain:** Human Resources Analytics
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel 2016
+- Excel Formulas
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Interactive Dashboard
+
+## 🧹 Data Cleaning
+
+- Checked duplicate records.
+- Checked missing values.
+- Verified data consistency.
+- Reviewed column data types.
+- Created calculated columns.
+
+## 📚 Excel Skills Demonstrated
+
+- IF
+- COUNTIF
+- COUNTA
+- AVERAGE
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- KPI Dashboard Development
+
+## 📈 Calculated Columns
+
+1. Age Group
+2. Salary Category
+3. Experience Group
+4. Overtime Status
+
+## 🎯 Key Performance Indicators (KPIs)
+
+1. Total Employees
+2. Attrition Count
+3. Attrition Rate
+4. Active Employees
+5. Average Age
+6. Average Monthly Salary
+
+## 📊 Dashboard Visualizations
+
+1. Department-wise Employee Distribution
+2. Gender-wise Employee Distribution
+3. Age Group Analysis
+4. Salary Category Analysis
+5. Employee Attrition Analysis
+6. Job Role Analysis
+
+## 🎛️ Interactive Dashboard Features
+
+The dashboard includes five interactive slicers:
+
+- Department
+- Gender
+- Age Group
+- Attrition
+- Overtime
+
+These slicers help users filter and explore employee data.
+
+## 💡 Business Objectives
+
+- Analyze employee attrition.
+- Understand workforce distribution.
+- Compare salary categories.
+- Identify departments with higher employee turnover.
+- Explore the relationship between overtime and attrition.
+- Support data-driven HR decisions.
+
+## 🎓 Key Learning Outcomes
+
+- Practical experience in Excel data cleaning.
+- Applying Excel formulas to employee data.
+- Creating and analyzing Pivot Tables.
+- Developing interactive dashboards.
+- Presenting meaningful business insights.
+- Understanding HR analytics concepts.
+
+## 📝 Conclusion
+
+This project demonstrates practical Microsoft Excel skills in data analysis and visualization. It transforms raw employee data into an interactive HR dashboard that helps explore workforce trends and supports better HR decision-making.
+
+---
+
+**Project Category:** Data Analytics  
+**Tool:** Microsoft Excel  
+**Author:** Siva Kumar
